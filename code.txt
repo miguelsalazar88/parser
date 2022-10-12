@@ -1,0 +1,3 @@
+# tengo un problema
+from import for in  range ALGO:
+    print()
